@@ -1,11 +1,12 @@
-body
+#body_background 
 {
-	background: red;
+   background-color: blanchedalmond ;
+   background-size: cover;
 }
 
 	.login_div1 , .login_div2
 	{
-		background: white;
+		background: aquamarine;
 		padding: 10px;
 		float: none;
 		border-radius: 15px;
